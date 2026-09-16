@@ -1,4 +1,5 @@
-Archived repositories have been migrated to [Codeberg](https://codeberg.org).
-- [`computateorg` on Codeberg](https://codeberg.org/computateorg)
-- [`computate` on Codeberg](https://codeberg.org/computate?tab=activity)
-- [Ansible playbooks on Codeberg](https://codeberg.org/computate-ansible)
+Many repos have been moved to [Codeberg](https://codeberg.org).
+- The ansible roles have moved [here](https://codeberg.org/computate-ansible).
+- Other repos have moved to [`computateorg`](https://codeberg.org/computateorg).
+
+[See what computate has been up to on Codeberg](https://codeberg.org/computate?tab=activity)
